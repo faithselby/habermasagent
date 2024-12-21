@@ -1,10 +1,8 @@
 # habermasagent
 
-for the solana ai christmas hackathon
+for the solana ai christmas hackathon 🎄🦌
 
-using the new modernbert model
-
-trained on habermas texts
+AI_Philospher_Agent 
 
 ✔️trained on modernbert
 ✔️embeddings in vector store
